@@ -39,24 +39,7 @@ function Skills() {
                   return obj;
                 }, {})}
             />
-          </div>
-        <div className="column is-6">
-            <div className="has-text-centered">
-              <span className="icon has-text-link">
-                <i className="fas fa-3x fa-cogs"></i>
-              </span>
-              <h2 className="title is-5">DevOps</h2>
-            </div>
-            <SkillsList
-              skills={Resume.skills
-                .filter(skill => skill.keywords.includes("IoT"))
-                .reduce((obj, item) => {
-                  obj[item.name] = item.level;
-                  return obj;
-                }, {})}
-            />
-          </div>
-        
+          </div>        
         </div>
       </div>
     </section>
