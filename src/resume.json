@@ -68,22 +68,22 @@
 		"name": "Java",
 		"level": "Master",
 		"keywords": [
-			"Developement"
+			"Software Developer"
 		]
 	}, {
 		"name": "Spring",
 		"level": "Master",
 		"keywords": [
-			"Developement"
+			"Software Developer"
 		]
 	}, {
 		"name": "Hibernate",
 		"level": "Master",
-		"keywords": ["Development"]
+		"keywords": ["Software Developer"]
 	}, {
 		"name": "Linux",
 		"level": "Intermediate",
-		"keywords": ["Development"]
+		"keywords": ["Software Developer"]
 	}, {
 		"name": "Jenkins",
 		"level": "Intermediate",
@@ -106,25 +106,25 @@
 		"name": "Maven",
 		"level": "Intermediate",
 		"keywords": [
-			"Development"
+			"Software Developer"
 		]
 	}, {
 		"name": "SVN",
 		"level": "Intermediate",
 		"keywords": [
-			"Development"
+			"Software Developer"
 		]
 	}, {
 		"name": "GIT",
 		"level": "Intermediate",
 		"keywords": [
-			"Development"
+			"Software Developer"
 		]
 	}, {
 		"name": "Redis",
 		"level": "Master",
 		"keywords": [
-			"Development"
+			"Software Developer"
 		]
 	}, {
 		"name": "Arduino",
