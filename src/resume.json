@@ -152,21 +152,21 @@
     }
   ],
   "interests": [
-    {
-      "name": "Travel bug",
-      "x_icon": "fa-globe-africa"
-    },
-    {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
-    },
-    {
-      "name": "Foodie",
-      "x_icon": "fa-utensils"
-    },
-    {
-      "name": "Live in the now",
-      "x_icon": "fa-brain"
-    }
+   {
+			"name": "Reading",
+			"keywords": [
+				"History",
+				"Technical blogs"
+			],
+			"x_icon": "fa fa-book"
+		},
+		{
+			"name": "Computer Games",
+			"x_icon": "fa-steam"
+		},
+		{
+			"name": "Cricket",
+			"x_icon": "fa-gamepad"
+		}
   ]
 }
