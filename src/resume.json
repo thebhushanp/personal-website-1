@@ -64,21 +64,81 @@
 		"summary": "Employee of the year"
 	}],
   "skills": [
-    {
-      "name": "Jenkins",
-      "level": "Advanced",
-      "keywords": ["DevOps"]
-    },
-    {
-      "name": "Object Oriented Programming",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-     {
-      "name": "Arduino",
-      "level": "Intermediate",
-      "keywords": ["IoT"]
-    }
+   {
+		"name": "Java",
+		"level": "Master",
+		"keywords": [
+			"Developement"
+		]
+	}, {
+		"name": "Spring",
+		"level": "Master",
+		"keywords": [
+			"Developement"
+		]
+	}, {
+		"name": "Hibernate",
+		"level": "Master",
+		"keywords": ["Development"]
+	}, {
+		"name": "Linux",
+		"level": "Intermediate",
+		"keywords": ["Development"]
+	}, {
+		"name": "Jenkins",
+		"level": "Intermediate",
+		"keywords": [
+			"DevOps"
+		]
+	}, {
+		"name": "Docker",
+		"level": "Intermediate",
+		"keywords": [
+			"DevOps"
+		]
+	}, {
+		"name": "Kubernetes",
+		"level": "Intermediate",
+		"keywords": [
+			"DevOps"
+		]
+	}, {
+		"name": "Maven",
+		"level": "Intermediate",
+		"keywords": [
+			"Development"
+		]
+	}, {
+		"name": "SVN",
+		"level": "Intermediate",
+		"keywords": [
+			"Development"
+		]
+	}, {
+		"name": "GIT",
+		"level": "Intermediate",
+		"keywords": [
+			"Development"
+		]
+	}, {
+		"name": "Redis",
+		"level": "Master",
+		"keywords": [
+			"Development"
+		]
+	}, {
+		"name": "Arduino",
+		"level": "Basic",
+		"keywords": [
+			"IoT"
+		]
+	}, {
+		"name": "Raspberry Pi",
+		"level": "Basic",
+		"keywords": [
+			"IoT"
+		]
+	}
   ],
   "languages": [
     {
