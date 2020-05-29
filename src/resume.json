@@ -12,7 +12,8 @@
 			"postalCode": "410209 ",
 			"city": "Mumbai",
 			"countryCode": "IN",
-			"region": "Maharashtra"
+			"country": "India",
+			"region": "Mumbai"
 		},
 		"profiles": [{
 				"network": "DEV Community",
