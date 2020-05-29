@@ -164,6 +164,11 @@
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     }
+     {
+      "name": "Arduino",
+      "level": "Intermediate",
+      "keywords": ["IoT"]
+    }
   ],
   "languages": [
     {
