@@ -1,36 +1,39 @@
 {
   "basics": {
-    "name": "José Coelho",
-    "label": "DevOps Engineer",
-    "picture": "images/jcoelho.jpg",
-    "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 44 years of experience in IT. Currently I’m working as a developer exploring the DevOps world. I’m interested in service management, all sorts of automation and developing front-end and back-end applications.",
-    "location": {
-      "country": "Hungary",
-      "countryCode": "HU",
-      "region": "Budapest"
-    },
-    "profiles": [
-      {
-        "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
-        "x_icon":"fab fa-2x fa-dev"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
-        "x_icon": "fab fa-2x fa-linkedin"
-      },
-      {
-        "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
-        "x_icon": "fab fa-2x fa-github"
-      }
-    ]
-  },
+		"name": "Bhushan Patil",
+		"label": "Programmer",
+		"picture": "images/jcoelho.jpg",
+		"email": "thebhushanp@gmail.com",
+		"phone": "8454818257",
+		"website": "https://bhushanpatil.netlify.app/",
+		"summary": "7 years of experience in development, extensively worked on integration of various Open-Source projects/frameworks. Good in troubleshooting and debugging. Have special interest in DevOps, Automation and IoT. Good understanding of Linux operating system & Web protocols.",
+		"location": {
+			"address": "Navi Mumbai",
+			"postalCode": "410209 ",
+			"city": "Navi Mumbai",
+			"countryCode": "IN",
+			"region": "Maharashtra"
+		},
+		"profiles": [{
+				"network": "DEV Community",
+				"username": "thebhushanp",
+				"url": "https://dev.to/thebhushanp",
+				"x_icon": "fab fa-2x fa-dev"
+			},
+			{
+				"network": "LinkedIn",
+				"username": "thebhushanpatil",
+				"url": "https://www.linkedin.com/in/thebhushanpatil",
+				"x_icon": "fab fa-2x fa-linkedin"
+			},
+			{
+				"network": "GitHub",
+				"username": "thebhushanp",
+				"url": "https://github.com/thebhushanp",
+				"x_icon": "fab fa-2x fa-github"
+			}
+		]
+	},
   "work": [
     {
       "company": "Bosch",
