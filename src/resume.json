@@ -167,6 +167,11 @@
 		{
 			"name": "Cricket",
 			"x_icon": "fa-gamepad"
+		},		
+	  	{
+			"name": "Piano",
+			"x_icon": "fa-music"
 		}
+
   ]
 }
